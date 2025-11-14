@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'widgets/text_widget.dart';            // Custom text widget
-import 'widgets/container_widget.dart';      // Custom container widget
-import 'widgets/row_widget.dart';            // Custom row widget
-import 'widgets/column_widget.dart';         // Custom column widget
-import 'widgets/image_widget.dart';          // Custom Image widget
-import 'widgets/network_image_widget.dart';  // Custom Network image widget
-import 'widgets/icon_widget.dart';           // Custom Icon widget
+import 'widgets/text_widget.dart';            
+import 'widgets/container_widget.dart';      
+import 'widgets/row_widget.dart';            
+import 'widgets/column_widget.dart';        
+import 'widgets/image_widget.dart';          
+import 'widgets/network_image_widget.dart';  
+import 'widgets/icon_widget.dart';           
 
 void main() {
   runApp(const MyApp());
